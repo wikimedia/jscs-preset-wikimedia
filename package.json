@@ -1,0 +1,29 @@
+{
+	"name": "jscs-preset-wikimedia",
+	"version": "0.1.0",
+	"description": "Wikimedia jscs preset",
+	"main": "./wikimedia.json",
+	"contributors": [
+			{
+				 "name" : "Timo Tijhof",
+				 "email" : "krinklemail@gmail.com"
+		 },
+			{
+				 "name" : "James D. Forrester",
+				 "email" : "jforrester@wikimedia.org"
+			}
+	],
+	"license": "MIT",
+	"keywords": [
+		"jscs-preset",
+		"wikimedia"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/wikimedia/jscs-preset-wikimedia.git"
+	},
+	"bugs": {
+		"url": "https://phabricator.wikimedia.org/maniphest/task/create/?projects=javascript"
+	},
+	"homepage": "https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript"
+}
