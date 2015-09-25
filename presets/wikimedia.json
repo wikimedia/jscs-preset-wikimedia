@@ -28,7 +28,7 @@
     "requireSpacesInsideObjectBrackets": "all",
     "requireSpacesInsideBrackets": true,
     "requireSpacesInsideParentheses": "all",
-    "disallowQuotedKeysInObjects": "allButReserved",
+    "disallowQuotedKeysInObjects": { "allExcept": [ "reserved" ] },
     "disallowDanglingUnderscores": true,
     "disallowSpaceAfterObjectKeys": true,
     "requireSpaceBeforeObjectValues": true,
