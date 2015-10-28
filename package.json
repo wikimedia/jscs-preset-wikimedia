@@ -1,6 +1,6 @@
 {
   "name": "jscs-preset-wikimedia",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "JSCS preset for Wikimedia coding style.",
   "keywords": [
     "jscs-preset"
