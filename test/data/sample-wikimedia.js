@@ -67,6 +67,7 @@
 	};
 
 	APP.loop = function ( items ) {
+		// requireMultipleVarDecl
 		var i, len, item, key,
 			j = 1,
 			ret = {};
