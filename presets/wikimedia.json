@@ -69,7 +69,7 @@
     "requireSpaceAfterLineComment": true,
     "disallowNewlineBeforeBlockStatements": true,
     "validateLineBreaks": "LF",
-    "validateQuoteMarks": "'",
+    "validateQuoteMarks": { "mark": "'", "escape": true },
     "validateIndentation": "\t",
 
     "jsDoc": {
